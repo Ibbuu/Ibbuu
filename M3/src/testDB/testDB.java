@@ -27,7 +27,7 @@ public class testDB {
 		}
         
        catch (SQLException e) {
-			// TODO Auto-generated catch block..
+			// TODO Auto-generated catch block..lklklklk
 			e.printStackTrace();
 		}
 	
